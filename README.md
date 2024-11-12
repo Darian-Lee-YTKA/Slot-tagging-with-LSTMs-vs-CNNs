@@ -127,5 +127,14 @@ As indicated earlier, my best model was a standard 2-layer CNN with a kernel siz
 
 ## Citations
 
-1. Yao, K., Peng, B., Zhang, Y., Yu, D., Zweig, G., & Shi, Y. (2014). *Spoken Language Understanding Using Long Shortterm Memory Neural Networks*. IEEE SLT Workshop, 189-194. [DOI](https://doi.org/10.1109/SLT.2014.7010977).
-2. Ma, X., & Hovy, E. (2016). *Slot tagging with convolutional networks for frame-semantic parsing*. ACL 2016, 1842-1851. [
+- **Yao, Kaisheng, Baolin Peng, Yu Zhang, Dong Yu, Geoffrey Zweig, and Yangyang Shi.** *Spoken Language Understanding Using Long Short-Term Memory Neural Networks.* In *Spoken Language Technology Workshop (SLT), 2014 IEEE,* pages 189–194, IEEE, 2014. [DOI: 10.1109/SLT.2014.7010977](https://doi.org/10.1109/SLT.2014.7010977).
+
+- **Ma, X., and Hovy, E.** *Slot Tagging with Convolutional Networks for Frame-Semantic Parsing.* In *Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (ACL 2016),* pages 1842–1851, 2016. Available at [https://aclanthology.org/P16-1101.pdf](https://aclanthology.org/P16-1101.pdf).
+
+- **Zhao, Y., and Zhang, Y.** *Classifying Objects in 3D Point Clouds Using Recurrent Neural Networks: A GRU-LSTM Hybrid Approach.* *IEEE Access,* 8:214570–214577, 2020. [DOI: 10.1109/ACCESS.2020.3047171](https://doi.org/10.1109/ACCESS.2020.3047171).
+
+- **Muhammad, Yusuf Idris, Naomie Salim, and Anazida Zainal.** *Joint Intent Detection and Slot Filling with Syntactic and Semantic Features Using Multichannel CNN-BiLSTM.* *PeerJ Computer Science,* 10, 2024. [DOI: 10.7717/peerj-cs.00045](https://doi.org/10.7717/peerj-cs.00045).
+
+- **Yang, S., Xie, J., and Zhang, Y.** *Hybrid LSTM-GRU Model for Flood Prediction in River Systems.* *MDPI Sensors,* 21(8):2691, 2021. [DOI: 10.3390/s21082691](https://doi.org/10.3390/s21082691).
+
+- **Strubell, Emma, Yumo Gan, David Andrassy, Rong Lu, and Andrew McCallum.** *Linguistically-Informed Self-Attention for Semantic Role Labeling.* *arXiv preprint arXiv:1804.08199,* 2018. [DOI: 10.48550/arXiv.1804.08199](https://arxiv.org/abs/1804.08199).
