@@ -69,7 +69,7 @@ Although the LSTM and GRU combination performed well, it suffered from slower se
 
 **Table**: Effect of increasing the number of LSTM layers on testing macro F1 and training loss, with a 4-layer GRU. More LSTM layers lead to overfitting, as indicated by the decrease in testing macro F1 as training loss decreases. Training loss was measured as the training loss for the epoch on which the best model was saved based on the validation F1 results.
 
-![LSTM Diagram](sigpicture2 (1).png)
+![LSTM Diagram](sigpicture2.png)
 **Figure**: Labeled biLSTM diagram. 2 LSTMs run simultaneously and their outputs are combined in the final activation for each timestamp.
 
 ## Class 3: CNN Variants
